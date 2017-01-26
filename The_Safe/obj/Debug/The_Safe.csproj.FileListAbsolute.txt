@@ -1,0 +1,9 @@
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\bin\Debug\The_Safe.exe.config
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\bin\Debug\The_Safe.exe
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\bin\Debug\The_Safe.pdb
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\obj\Debug\The_Safe.csprojResolveAssemblyReference.cache
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\obj\Debug\The_Safe.Form1.resources
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\obj\Debug\The_Safe.Properties.Resources.resources
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\obj\Debug\The_Safe.csproj.GenerateResource.Cache
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\obj\Debug\The_Safe.exe
+c:\users\arran\documents\visual studio 2013\Projects\The_Safe\The_Safe\obj\Debug\The_Safe.pdb
